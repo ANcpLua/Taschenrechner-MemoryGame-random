@@ -1,8 +1,8 @@
-in xampp unter htdocs den ordner ajaxue4 geben
+Manual:
 
-http://localhost/ajaxue4/jquery.html
+1. Im xampp ordner unter htdocs UE4 ajax schieben.
 
-Xampp Control Panel v3.3.0 
+2. Den Link in öffnen http://localhost/ajaxue4/jquery.html
 
-Apache Pid 4460  18152         port 80,443
+3. Xampp Control Panel v3.3.0     Apache Pid 4460  18152         port 80,443
 
